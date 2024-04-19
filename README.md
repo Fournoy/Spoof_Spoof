@@ -10,7 +10,8 @@ fun with this MITM attack.
 
 Dependencies :
 --
-The program will run coorectly only if you have Scapy, multiprocessing and logging modules. It's important to have Nmap application install in your computer or the program will not work.
+The program will run correctly only if you have Scapy, multiprocessing and logging modules. It's important to have Nmap application install in your computer or the program will not work.
+Running the programm in Kali is the best. 
 
 Using Spoof_Spoof correctly:
 --
