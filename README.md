@@ -6,7 +6,8 @@ Disclaimer: Any illicit use of this program is strictly prohibited. It is import
 
 Spoof_Spoof is an automated MITM attack use for fun and discover the ARP spoofing. You can use it to do an ARP spoofing and sniffing the packet. Also, in the future with this program, perform automated DNS spoofing.
 To make it right, you just need the IP target and your MAC adress. To help you choose an IP target, the program make a research in the network using nmap. After printing the different IP adress, make your choice and have
-fun with this little MITM attack. 
+fun with this little MITM attack. Don't hesitate to modify the IP address in the nmap command, so that it corresponds to your use in spoof_spoof.py
+
 
 Dependencies :
 --
