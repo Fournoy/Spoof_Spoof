@@ -2,7 +2,7 @@
 This program is used to make a MITM attack using an ARP poisonning. The program give you a list of the different IP target and sniff the transfered packet. 
 This project was made to train myself, if you use it, you have chance to meet problems with the code...
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Disclaimer: Any illicit use of this program is strictly prohibited. It is important to emphasize that users of Snake_Filer are solely responsible for their actions when using this program. I disclaim any liability for abusive or illicit use of the application by third parties. Users are required to comply with the laws and regulations in their jurisdiction when using Snake_Filer.
+Disclaimer: Any illicit use of this program is strictly prohibited. It is important to emphasize that users of Spoof_Spoof are solely responsible for their actions when using this program. I disclaim any liability for abusive or illicit use of the application by third parties. Users are required to comply with the laws and regulations in their jurisdiction when using Spoof_Spoof.
 
 Spoof_Spoof is an automated MITM attack use for fun and discover the ARP spoofing. You can use it to do an ARP spoofing and sniffing the packet. Also, in the future with this program, perform automated DNS spoofing.
 To make it right, you just need the IP target and your MAC adress. To help you choose an IP target, the program make a research in the network using nmap. After printing the different IP adress, make your choice and have
