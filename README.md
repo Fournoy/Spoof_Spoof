@@ -1,6 +1,6 @@
 # Spoof_Spoof
-This program is used to make a MITM attack using an ARP spoofing. The program give you a list of the different IP target and sniff the transfered packet. 
-
+This program is used to make a MITM attack using an ARP poisonning. The program give you a list of the different IP target and sniff the transfered packet. 
+This project was made to train myself, if you use it, you have chance to meet problems with the code...
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Disclaimer: Any illicit use of this program is strictly prohibited. It is important to emphasize that users of Snake_Filer are solely responsible for their actions when using this program. I disclaim any liability for abusive or illicit use of the application by third parties. Users are required to comply with the laws and regulations in their jurisdiction when using Snake_Filer.
 
